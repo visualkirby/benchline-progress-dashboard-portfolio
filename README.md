@@ -18,15 +18,15 @@ No single off-the-shelf tool connected a full task backlog, daily time allocatio
 
 # Dashboard Tabs
 
-1️⃣ **Overview** — Daily completion ring (%), category breakdown bars showing task status distribution, vertical time-block calendar rendering the day as absolute-positioned blocks with start times and durations, Time Remaining countdown, current phase focus, weekly targets, and Upwork milestone tracker.
+1️⃣ **Overview:** Daily completion ring (%), category breakdown bars showing task status distribution, vertical time-block calendar rendering the day as absolute-positioned blocks with start times and durations, Time Remaining countdown, current phase focus, weekly targets, and Upwork milestone tracker.
 
-2️⃣ **Sections** — Full master task list organized by section, imported from a Google Doc. Expandable cards per section with completion percentage, progress bar, and task count. Inline note editing per task (pencil icon). 5-status cycling: To Do, In Progress, Blocked, Done, TBD.
+2️⃣ **Sections:** Full master task list organized by section, imported from a Google Doc. Expandable cards per section with completion percentage, progress bar, and task count. Inline note editing per task (pencil icon). 5-status cycling: To Do, In Progress, Blocked, Done, TBD.
 
-3️⃣ **Active** — Filtered view showing only tasks with In Progress or Blocked status. Compact card layout per task with section name, task text, status badge, and notes. Quick access to active work without scrolling the full section list.
+3️⃣ **Active:** Filtered view showing only tasks with In Progress or Blocked status. Compact card layout per task with section name, task text, status badge, and notes. Quick access to active work without scrolling the full section list.
 
-4️⃣ **Weekly** — Weekly review question navigator: one question at a time with Prev/Next navigation and a progress counter. Per-question notes (textarea). Mark Done checkbox per question. Daily and weekly targets display.
+4️⃣ **Weekly:** Weekly review question navigator: one question at a time with Prev/Next navigation and a progress counter. Per-question notes (textarea). Mark Done checkbox per question. Daily and weekly targets display.
 
-5️⃣ **Daily** — Category time allocation (A through F, each color-coded with a custom name). Per-category inputs: start time (HH:MM picker) and duration in minutes with auto-computed end time. Subtask selection checkboxes to build today's plan. Save, Edit Mode (inline task edits and ad-hoc task creation), Change Plan, and Cancel Day controls.
+5️⃣ **Daily:** Category time allocation (A through F, each color-coded with a custom name). Per-category inputs: start time (HH:MM picker) and duration in minutes with auto-computed end time. Subtask selection checkboxes to build today's plan. Save, Edit Mode (inline task edits and ad-hoc task creation), Change Plan, and Cancel Day controls.
 
 ---
 
